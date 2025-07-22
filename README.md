@@ -16,7 +16,7 @@ A simple and interactive **Tic Tac Toe** game built using **HTML, CSS, and JavaS
 ## 🚀 How to Play
 
 1. Open the game in a web browser.
-2. Player 1 starts with **X**, Player 2 uses **O**.
+2. Player 1 starts with **O**, Player 2 uses **X**.
 3. Take turns clicking empty cells.
 4. The first player to align 3 symbols (horizontally, vertically, or diagonally) wins.
 5. If all cells are filled without a winner, it's a draw.
